@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/KatushkaMovie/static/css/main.109ac416.chunk.css",
-    "main.js": "/KatushkaMovie/static/js/main.de47155e.chunk.js",
-    "main.js.map": "/KatushkaMovie/static/js/main.de47155e.chunk.js.map",
+    "main.css": "/KatushkaMovie/static/css/main.6cc91a78.chunk.css",
+    "main.js": "/KatushkaMovie/static/js/main.2c9b1dea.chunk.js",
+    "main.js.map": "/KatushkaMovie/static/js/main.2c9b1dea.chunk.js.map",
     "runtime-main.js": "/KatushkaMovie/static/js/runtime-main.c1b89b06.js",
     "runtime-main.js.map": "/KatushkaMovie/static/js/runtime-main.c1b89b06.js.map",
     "static/js/2.3818ad95.chunk.js": "/KatushkaMovie/static/js/2.3818ad95.chunk.js",
     "static/js/2.3818ad95.chunk.js.map": "/KatushkaMovie/static/js/2.3818ad95.chunk.js.map",
     "index.html": "/KatushkaMovie/index.html",
-    "static/css/main.109ac416.chunk.css.map": "/KatushkaMovie/static/css/main.109ac416.chunk.css.map",
+    "static/css/main.6cc91a78.chunk.css.map": "/KatushkaMovie/static/css/main.6cc91a78.chunk.css.map",
     "static/js/2.3818ad95.chunk.js.LICENSE.txt": "/KatushkaMovie/static/js/2.3818ad95.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c1b89b06.js",
     "static/js/2.3818ad95.chunk.js",
-    "static/css/main.109ac416.chunk.css",
-    "static/js/main.de47155e.chunk.js"
+    "static/css/main.6cc91a78.chunk.css",
+    "static/js/main.2c9b1dea.chunk.js"
   ]
 }
